@@ -20,9 +20,4 @@
     <private-symbols package="org.cyanogenmod.platform.internal" />
 
     <java-symbol type="string" name="custom_tile_listener_binding_label" />
-
-    <!-- Profiles -->
-    <java-symbol type="xml" name="profile_default" />
-    <java-symbol type="string" name="wildcardProfile" />
-
 </resources>
